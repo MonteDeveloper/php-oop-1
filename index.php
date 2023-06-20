@@ -2,11 +2,6 @@
 
 include 'db.php';
 
-// foreach ($spidermanMovies as $movie) {
-//     $movie->printMovie();
-//     echo "\n";
-// }
-
 ?>
 
 <!doctype html>
